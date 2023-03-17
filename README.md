@@ -1,6 +1,6 @@
 # The Erdős Institute
 # Python Prep Content
-##### Last Updated March 8, 2023
+##### Last Updated March 17, 2023
 
 This repository will contain all of our python prep content. Those individuals wishing to complete our Data Science Boot Camp will need
 to understand all of the content covered in this repository.
@@ -13,6 +13,26 @@ These lectures will present python coding through a series of jupyter notebooks.
 Each lecture notebook will have two versions:
 1. An empty version that you can fill in and play around with as desired,
 2. A "Complete" version that was filled in while recording the lecture video.
+
+#### Lectures Order
+
+You should complete the lectures in the following order:
+1. Introduction
+2. My First jupyter notebook
+3. Basic Data Types
+4. Strings
+5. More Complicated Data Types
+6. Copies
+7. Conditionals and Loops
+8. Writing Functions
+9. Reading and Writing to File
+10. Importing a Module or Package
+11. Basic numpy
+12. Basic pandas
+13. Basic Plotting
+14. Troubleshooting Errors
+15. Next Steps
+16. Classes and Objects in Python (Optional)
 
 
 ### Practice Problems
