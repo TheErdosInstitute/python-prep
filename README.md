@@ -1,6 +1,6 @@
 # The Erdős Institute
 # Python Prep Content
-##### Last Updated March 21, 2023
+##### Last Updated March 26, 2023
 
 This repository will contain all of our python prep content. Those individuals wishing to complete our Data Science Boot Camp will need to understand all of the content covered in this repository.
 
@@ -61,6 +61,22 @@ You should complete the practice problem notebooks in the following order:
 ### Skill Assessments
 
 This folder contains a few notebooks that can serve as skill assessments. You should treat these notebooks like quizzes, meaning you should try to not refer back to the lectures or practice problems when completing them. Each notebook will have a set of solutions posted with them as well. These notebooks can be finished in any order.
+
+#### Start Here!
+
+A starting point explaining the skill assessment notebooks.
+
+#### Skill Assessment 1
+
+Focuses more on base python like loops, list comprehensions, writing functions, etc.
+
+#### Skill Assessment 2
+
+Focuses more on data analysis packages like pandas, numpy, and matplotlib.
+
+#### Skill Assessment 3
+
+A blend of base python and data analysis packages.
 
 ### Data
 
